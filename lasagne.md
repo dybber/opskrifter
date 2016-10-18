@@ -15,7 +15,7 @@ og lasagneplader. Osv. osv. Slut af med hvid sauce.
 
 Drys evt. med revet ost.
 
-Bages i ovnen ved 200 grader C. alm. ovn i 30 minutter.
+Bages i ovnen ved 200 grader alm. ovn i 30 minutter.
 
 
 # Ingredienser
