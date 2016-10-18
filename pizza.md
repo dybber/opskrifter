@@ -1,5 +1,5 @@
 #Pizzabund
-##Forfatter: Gastromand.dk
+
 ##Kategori: Hovedret
  
 #Ingredienser
