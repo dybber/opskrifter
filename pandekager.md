@@ -51,4 +51,3 @@ Sidenote
 --------
 Lav ALTID 8-dobbelt eller 16-dobbelt portion
 
-Dette er en 8-dobbelt portion: ![Pandekage-stak](/images/ohms-pancakes.jpg)
