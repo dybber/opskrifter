@@ -23,23 +23,27 @@ Bages i ovnen ved 200 grader alm. ovn i 30 minutter.
 
 
 # Ingredienser
-* Kødsauce:
-    * 500	Oksekød, hakket ca. 16% fedt
-    * 0.5 	spsk.	Olie
-    * 600	gram	Løg
-    * 400	gram	Gulerødder
-    * 1		laurbærblade
-    * 2	ds.	Hakkede tomater, konserves
-    * 1		Bouillonterning
-    * Salt
-    * Peber
+| Mængde | Ingrediens |
+|-------:|:-----------|
+| 500 g  |	Oksekød, hakket ca. 16% fedt |
+| 0.5 spsk | Olivenlie |
+| 600	gram | Løg |
+| 400	gram | Gulerødder |
+| 1 |	laurbærblad |
+| 2	ds. | Hakkede tomater|
+| 1 | Bouillonterning |
+| | Salt |
+| | Peber |
 
 * Hvid sauce:
-    * 30	gram	Margarine
-    * 2	spsk.	Hvedemel
-    * 5	dl.	Sødmælk
-    * Salt
-    * Muskat
+
+| Mængde | Ingrediens|
+|----:|:----|
+| 30	gram | Margarine
+| 2	spsk |	Hvedemel |
+| 5	dl |Sødmælk |
+| | Salt |
+| | Revet Muskat |
 * 9 Lasagneplader
 * 100	gram Revet ost, mozzarella 45+
 
