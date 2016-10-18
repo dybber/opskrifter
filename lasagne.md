@@ -19,7 +19,7 @@ og lasagneplader. Osv. osv. Slut af med hvid sauce.
 
 Drys evt. med revet ost.
 
-Bages i ovnen ved 200 grader C. alm. ovn i 30 minutter.
+Bages i ovnen ved 200 grader alm. ovn i 30 minutter.
 
 
 # Ingredienser
@@ -44,3 +44,7 @@ Bages i ovnen ved 200 grader C. alm. ovn i 30 minutter.
 * 100	gram Revet ost, mozzarella 45+
 
 Read more at http://www.dk-kogebogen.dk/opskrifter/visopskrift.php?id=850#GwTZ3iZ1Q8aGUGTK.99
+
+Her er min yndlingsrækkefølge på lagene:
+
+![Lag](billeder/lasagne.png)
