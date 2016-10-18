@@ -1,15 +1,15 @@
 Antal brugere
 -------------
-2-6
+1-3
 
 Udviklingsmiljø
 ---------------
- * 1/4 kg mel
- * 2 æg
- * 1/4 øl
- * 1/2 l mælk
- * 1 spsk sukker
- * 1/2 tsk vanillesukker
+ * 1/8 kg mel
+ * 1 æg
+ * 1/8 øl
+ * 1/4 l mælk
+ * 1/2 spsk sukker
+ * 1/4 tsk vanillesukker
  * lidt olie
  * lidt smør/margarine
  * pander
