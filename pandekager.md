@@ -1,3 +1,7 @@
+<link id="linkstyle" rel="stylesheet" href="foghorn.css">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+
+
 Antal brugere
 -------------
 1-3
@@ -12,7 +16,6 @@ Udviklingsmiljø
  * 1/4 tsk vanillesukker
  * lidt olie
  * lidt smør/margarine
- * pander
 
 
 Program
