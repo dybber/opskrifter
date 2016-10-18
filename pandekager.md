@@ -1,3 +1,7 @@
+<link id="linkstyle" rel="stylesheet" href="foghorn.css">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+
+
 Antal brugere
 -------------
 4-12
