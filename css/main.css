@@ -1,3 +1,6 @@
+---
+title: CSS stylesheet
+---
 body {
     margin: 0;
     background-image: url({{ site.baseurl }}/images/background.png);
