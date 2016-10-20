@@ -1,6 +1,7 @@
-<link id="linkstyle" rel="stylesheet" href="foghorn.css">
-<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
-
+---
+title: Ohms Pandekager
+---
+*af Mads Ohm Larsen*
 
 Antal brugere
 -------------
@@ -12,16 +13,16 @@ Udviklingsmiljø
  * 1 æg
  * 1/8 øl
  * 1/4 l mælk
- * 1/2 spsk sukker
- * 1/4 tsk vanillesukker
+ * lidt sukker
+ * lidt vanillesukker
  * lidt olie
  * lidt smør/margarine
-
+ * pander
 
 Program
 -------
 
-```Java
+{% highlight java %}
 import skab.ingredienser;
 
 Skål storSkål = new Skål();
@@ -45,9 +46,8 @@ while(!storSkål.tom()) {
   p.steg();
   this.eat(p.getPandekage());
 }
-```
+{% endhighlight %}
 
 Sidenote
 --------
 Lav ALTID 8-dobbelt eller 16-dobbelt portion
-

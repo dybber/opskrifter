@@ -1,0 +1,19 @@
+title: Opskrifter samlet af Martin Dybdal
+email: dybber@dybber.dk
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://dybber.github.io/" # the base hostname & protocol for your site
+markdown: kramdown
+
+kramdown:
+  syntax_highlighter: rouge
+
+collections:
+  recipes:
+    output: true
+
+defaults:
+  -
+    scope:
+      collection: recipes
+    values:
+      layout: recipe

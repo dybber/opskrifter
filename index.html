@@ -1,0 +1,10 @@
+---
+layout: page
+title: Opskrifter
+---
+
+<ul>
+  {% for recipe in site.recipes %}
+    <li><a href="{{ recipe.url | prepend: site.baseurl }}">{{recipe.title}}</a></li>
+  {% endfor %}
+</ul>
