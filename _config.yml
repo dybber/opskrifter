@@ -16,4 +16,4 @@ defaults:
     scope:
       collection: recipes
     values:
-      layout: recipe
+      layout: page
